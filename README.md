@@ -31,12 +31,27 @@ An Front-End Developer Jr from Manaus, Brazil
 </p>
 
 <p align="center">
-  <h2>Education</h2>
+ <h2>Education</h2>
   📓 Computer Science student by Estácio College
   
-  🟥 Manaus, AM;
+  📍 Manaus, AM;
   
   💻 Software Developer by Digital Innovation One
   
-  🖥️ Actually, i'm learned FullStack techonolgys;
+  📒 Actually, i'm learned FullStack techonolgys;
+</p>
+
+<p align="center" >
+ <h2>Technologys and tools 🔧</h2>
+ <a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+ </a>
+ <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+ </a>
+ <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
