@@ -26,11 +26,11 @@ An Front-End Developer Jr from Manaus, Brazil
   <br>
   ❤️ I love my family and my dog;
   <br>
-  🎮 I like to listen musics, play games, code and UCM;
+  🎮 I like to listen musics, play games, code and MCU;
   
 </p>
 
-<p align="center">
+<p align='center'>
  <h2>Education</h2>
   📓 Computer Science student by Estácio College
   
@@ -41,7 +41,8 @@ An Front-End Developer Jr from Manaus, Brazil
   📒 Actually, i'm learned FullStack techonolgys;
 </p>
 
-<p align="center" >
+<p align='center' >
+  
  <h2>Technologys and tools 🔧</h2>
  <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
@@ -51,7 +52,12 @@ An Front-End Developer Jr from Manaus, Brazil
  </a>
  <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
- 
+ </a>
+ <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+ </a>
+ <a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+ </a>
+ 
 </p>
