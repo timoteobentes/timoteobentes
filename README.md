@@ -7,7 +7,7 @@ An Front-End Developer Jr from Manaus, Brazil
 </p>
 
 <p align='center'>
-
+  Contact: <br>
   <a href="https://www.linkedin.com/in/tim%C3%B3teo-bentes-03a083161/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -18,7 +18,8 @@ An Front-End Developer Jr from Manaus, Brazil
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=timoteobentes&show_icons=true&count_private=true&theme=dracula" width="350"></a>
+  <a href="https://github.com/timoteobentes"><img src="https://github-readme-stats.vercel.app/api?username=timoteobentes&show_icons=true&count_private=true&theme=dracula" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoteobentes&layout=compact&langs_count=7&theme=dracula" width="300"></a>
 </p>
 
 <p align='center'>
@@ -31,7 +32,7 @@ An Front-End Developer Jr from Manaus, Brazil
 </p>
 
 <p align='center'>
- <h2>Education</h2>
+ <h2>Info</h2>
   📓 Computer Science student by Estácio College
   
   📍 Manaus, AM;
