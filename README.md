@@ -6,6 +6,10 @@ Hello there! I'm Timóteo 😃
 An Front-End Developer Jr from Manaus, Brazil
 </p>
 
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+
 <p align='center'>
   Contact: <br>
   <a href="https://www.linkedin.com/in/tim%C3%B3teo-bentes-03a083161/">
