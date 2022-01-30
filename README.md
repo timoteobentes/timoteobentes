@@ -17,7 +17,10 @@ An Front-End Developer Jr from Manaus, Brazil
   </a>
   <a href="https://www.instagram.com/bentest.t/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>&nbsp;&nbsp;
+  </a>
+   <a href="https://lnkd.in/getFCegV">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+   </a>&nbsp;&nbsp;
   
 </p>
 
