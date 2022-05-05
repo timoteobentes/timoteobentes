@@ -46,7 +46,7 @@ An Front-End Developer Jr from Manaus, Brazil
   
   💻 Software Developer by Digital Innovation One
   
-  📒 Actually, i'm learned FullStack techonolgys;
+  📒 Future FullStack Developer;
 </p>
 
 <p align='center' >
