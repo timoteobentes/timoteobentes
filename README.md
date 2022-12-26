@@ -30,7 +30,7 @@ An Front-End Developer Jr from Manaus, Brazil
 </p>
 
 <p align='center'>
-  👨‍🦲 I'm 18 years old
+  👨‍🦲 I'm 19 years old
   <br>
   ❤️ I love my family and my dog;
   <br>
