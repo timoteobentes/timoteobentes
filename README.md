@@ -7,7 +7,7 @@ An Front-End Developer Jr from Manaus, Brazil
 </p>
 
 <div align="center">
-   <img height="380em" src="https://user-images.githubusercontent.com/93561479/150832404-0705ba94-5b52-4349-a343-b4dd0f8165d0.gif"/>
+   <img height="380em" src="https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif"/>
 </div>
 
 <p align='center'>
