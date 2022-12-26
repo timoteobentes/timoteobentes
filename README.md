@@ -69,3 +69,8 @@ An Front-End Developer Jr from Manaus, Brazil
  </a>
  
 </p>
+
+<p align="center">
+   Watch my contribution graph get eaten by the snake 🐍
+   <img src="https://github.com/timoteobentes/timoteobentes/blob/output/github-contribution-grid-snake.svg" alt="animated" />
+</p>
