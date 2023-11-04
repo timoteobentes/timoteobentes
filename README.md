@@ -12,13 +12,13 @@ An Front-End Developer Jr from Manaus, Brazil
 
 <p align='center'>
   Contact: <br>
-  <a href="https://www.linkedin.com/in/tim%C3%B3teo-bentes-03a083161/">
+  <a href="https://www.linkedin.com/in/timoteo-bentes/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/bentest.t/">
+  <a href="https://www.instagram.com/bentestimoteo/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-   <a href="http://timoteo-portfolio.vercel.app/">
+   <a href="https://timoteobentes.com.br/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
    </a>&nbsp;&nbsp;
   
@@ -30,7 +30,7 @@ An Front-End Developer Jr from Manaus, Brazil
 </p>
 
 <p align='center'>
-  👨‍🦲 I'm 19 years old
+  👨‍🦲 I'm 20 years old
   <br>
   ❤️ I love my family and my dog;
   <br>
@@ -80,9 +80,4 @@ An Front-End Developer Jr from Manaus, Brazil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
  </a>
  
-</p>
-
-<p align="center">
-   Watch my contribution graph get eaten by the snake 🐍
-   <img src="https://github.com/timoteobentes/timoteobentes/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 </p>
