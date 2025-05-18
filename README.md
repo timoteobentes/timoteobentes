@@ -61,7 +61,7 @@
   <a href="https://www.instagram.com/bentestimoteo/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://timoteobentes.com.br/">
+  <a href="http://timoteobentes.dev.br/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
